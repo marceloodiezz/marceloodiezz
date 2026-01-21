@@ -12,4 +12,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📈 Estadísticas
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloodiezz&layout=compact&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloodiezz&layout=compact&theme=tokyonight&v=1)
